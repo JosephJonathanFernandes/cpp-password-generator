@@ -48,26 +48,37 @@ Password Strength: Strong
 Open **Git Bash** or **Command Prompt**:
 
 g++ password_generator.cpp -o password.exe
+
 ./password.exe
 
 On Linux/macOS:
 
 g++ password_generator.cpp -o password
+
 ./password
 
 🧠 Password Strength Criteria
+
 Strength	Requirements
+
 Strong	  ≥ 12 characters with upper, lower, digit, symbol
+
 Moderate	≥ 8 characters with upper, lower, digit
+
 Weak	    Anything else
 
 📄 License
+
 This project is open-source and available under the MIT License.
 
 👤 Author
+
 Joseph Fernandes (JJF🙂)
+
 GitHub: @josephjonathanfernandes
 
 💬 Feedback & Contributions
+
 Pull requests and stars are always welcome!
+
 Feel free to open issues if you encounter bugs or want features.
