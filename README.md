@@ -48,13 +48,13 @@ Password Strength: Strong
 
 Open **Git Bash** or **Command Prompt**:
 
-g++ password_generator.cpp -o password.exe
+g++ strong_password_generator.cpp -o password.exe
 
 ./password.exe
 
 On Linux/macOS:
 
-g++ password_generator.cpp -o password
+g++ strong_password_generator.cpp -o password
 
 ./password
 
