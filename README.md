@@ -23,6 +23,7 @@ A simple yet effective command-line utility written in C++ that generates secure
 Enter desired password length (min 4): 12
 
 Generated Password: X$1uFd0@Ea2r
+
 Password Strength: Strong
 
 
